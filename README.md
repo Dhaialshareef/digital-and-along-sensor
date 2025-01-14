@@ -32,3 +32,4 @@ The analog value is converted to millivolts (mV).
 The millivolt value is then converted to degrees Celsius using the LM35's formula:
 1°C = 10 mV.
 The temperature in Celsius is printed to the Serial Monitor every second (delay(1000)).
+![Screenshot 2025-01-14 115810](https://github.com/user-attachments/assets/9e6b135a-eedf-411b-b046-354d7c680224)
